@@ -7,7 +7,10 @@ public class LevelManager : MonoBehaviour {
 	public float loadNextNevelTimer; 
 
 	void Start(){
-		Invoke ("loadNextLevel", loadNextNevelTimer);
+		if (loadNextNevelTimer == 0) {
+		} else {
+			Invoke ("loadNextLevel", loadNextNevelTimer);
+		}
 	}
 
 	public void LoadLevel(string name){
