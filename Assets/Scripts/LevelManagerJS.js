@@ -4,8 +4,7 @@ import UnityEngine.SceneManagement;
 var loadNextNevelTimer: float;
 
 function Start () {
-	if (loadNextNevelTimer == 0) {
-	} else {
+	if (loadNextNevelTimer != 0) {
 		Invoke ("loadNextLevel", loadNextNevelTimer);
 	}
 }
@@ -20,4 +19,8 @@ function QuitRequest(){
 
 function loadNextLevel(){
 	SceneManager.LoadScene (SceneManager.GetActiveScene().buildIndex + 1);
+}
+
+function Update(){
+
 }
