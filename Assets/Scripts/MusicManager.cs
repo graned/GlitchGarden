@@ -5,7 +5,6 @@ using UnityEngine.SceneManagement;
 public class MusicManager : MonoBehaviour {
 	public AudioClip[] levelMusicArray;
 	public float musicVolume;
-	private int currentScene;
 	private AudioSource audioSource;
 	// Use this for initialization
 	void Awake () {
