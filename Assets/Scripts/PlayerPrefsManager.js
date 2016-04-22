@@ -34,14 +34,14 @@ static function IsLevelUnlocked(level: int){
   }
 }
 
-static function SetDifficulty(difficulty: int){
-  if(difficulty > 0f && difficulty < 5f){
-    PlayerPrefs.SetInt(DIFFICULTY_KEY, difficulty);
+static function SetDifficulty(difficulty: float){
+  if(difficulty > 0f && difficulty < 1f){
+    PlayerPrefs.SetFloat(DIFFICULTY_KEY, difficulty);
   } else {
     Debug.LogError("Difficulty level out of range");
   }
 }
 
 static function GetDifficulty(){
-  return PlayerPrefs.GetInt(DIFFICULTY_KEY);
+  return PlayerPrefs.GetFloat(DIFFICULTY_KEY);
 }
