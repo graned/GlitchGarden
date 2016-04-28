@@ -1,0 +1,4377 @@
+fileFormatVersion: 2
+guid: 3b97d42a514e74886906cb475a500bf3
+timeCreated: 1461854514
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GokuBaseSprite_0
+    21300002: GokuBaseSprite_1
+    21300004: GokuBaseSprite_2
+    21300006: GokuBaseSprite_3
+    21300008: GokuBaseSprite_4
+    21300010: GokuBaseSprite_5
+    21300012: GokuBaseSprite_6
+    21300014: GokuBaseSprite_7
+    21300016: GokuBaseSprite_8
+    21300018: GokuBaseSprite_9
+    21300020: GokuBaseSprite_10
+    21300022: GokuBaseSprite_11
+    21300024: GokuBaseSprite_12
+    21300026: GokuBaseSprite_13
+    21300028: GokuBaseSprite_14
+    21300030: GokuBaseSprite_15
+    21300032: GokuBaseSprite_16
+    21300034: GokuBaseSprite_17
+    21300036: GokuBaseSprite_18
+    21300038: GokuBaseSprite_19
+    21300040: GokuBaseSprite_20
+    21300042: GokuBaseSprite_21
+    21300044: GokuBaseSprite_22
+    21300046: GokuBaseSprite_23
+    21300048: GokuBaseSprite_24
+    21300050: GokuBaseSprite_25
+    21300052: GokuBaseSprite_26
+    21300054: GokuBaseSprite_27
+    21300056: GokuBaseSprite_28
+    21300058: GokuBaseSprite_29
+    21300060: GokuBaseSprite_30
+    21300062: GokuBaseSprite_31
+    21300064: GokuBaseSprite_32
+    21300066: GokuBaseSprite_33
+    21300068: GokuBaseSprite_34
+    21300070: GokuBaseSprite_35
+    21300072: GokuBaseSprite_36
+    21300074: GokuBaseSprite_37
+    21300076: GokuBaseSprite_38
+    21300078: GokuBaseSprite_39
+    21300080: GokuBaseSprite_40
+    21300082: GokuBaseSprite_41
+    21300084: GokuBaseSprite_42
+    21300086: GokuBaseSprite_43
+    21300088: GokuBaseSprite_44
+    21300090: GokuBaseSprite_45
+    21300092: GokuBaseSprite_46
+    21300094: GokuBaseSprite_47
+    21300096: GokuBaseSprite_48
+    21300098: GokuBaseSprite_49
+    21300100: GokuBaseSprite_50
+    21300102: GokuBaseSprite_51
+    21300104: GokuBaseSprite_52
+    21300106: GokuBaseSprite_53
+    21300108: GokuBaseSprite_54
+    21300110: GokuBaseSprite_55
+    21300112: GokuBaseSprite_56
+    21300114: GokuBaseSprite_57
+    21300116: GokuBaseSprite_58
+    21300118: GokuBaseSprite_59
+    21300120: GokuBaseSprite_60
+    21300122: GokuBaseSprite_61
+    21300124: GokuBaseSprite_62
+    21300126: GokuBaseSprite_63
+    21300128: GokuBaseSprite_64
+    21300130: GokuBaseSprite_65
+    21300132: GokuBaseSprite_66
+    21300134: GokuBaseSprite_67
+    21300136: GokuBaseSprite_68
+    21300138: GokuBaseSprite_69
+    21300140: GokuBaseSprite_70
+    21300142: GokuBaseSprite_71
+    21300144: GokuBaseSprite_72
+    21300146: GokuBaseSprite_73
+    21300148: GokuBaseSprite_74
+    21300150: GokuBaseSprite_75
+    21300152: GokuBaseSprite_76
+    21300154: GokuBaseSprite_77
+    21300156: GokuBaseSprite_78
+    21300158: GokuBaseSprite_79
+    21300160: GokuBaseSprite_80
+    21300162: GokuBaseSprite_81
+    21300164: GokuBaseSprite_82
+    21300166: GokuBaseSprite_83
+    21300168: GokuBaseSprite_84
+    21300170: GokuBaseSprite_85
+    21300172: GokuBaseSprite_86
+    21300174: GokuBaseSprite_87
+    21300176: GokuBaseSprite_88
+    21300178: GokuBaseSprite_89
+    21300180: GokuBaseSprite_90
+    21300182: GokuBaseSprite_91
+    21300184: GokuBaseSprite_92
+    21300186: GokuBaseSprite_93
+    21300188: GokuBaseSprite_94
+    21300190: GokuBaseSprite_95
+    21300192: GokuBaseSprite_96
+    21300194: GokuBaseSprite_97
+    21300196: GokuBaseSprite_98
+    21300198: GokuBaseSprite_99
+    21300200: GokuBaseSprite_100
+    21300202: GokuBaseSprite_101
+    21300204: GokuBaseSprite_102
+    21300206: GokuBaseSprite_103
+    21300208: GokuBaseSprite_104
+    21300210: GokuBaseSprite_105
+    21300212: GokuBaseSprite_106
+    21300214: GokuBaseSprite_107
+    21300216: GokuBaseSprite_108
+    21300218: GokuBaseSprite_109
+    21300220: GokuBaseSprite_110
+    21300222: GokuBaseSprite_111
+    21300224: GokuBaseSprite_112
+    21300226: GokuBaseSprite_113
+    21300228: GokuBaseSprite_114
+    21300230: GokuBaseSprite_115
+    21300232: GokuBaseSprite_116
+    21300234: GokuBaseSprite_117
+    21300236: GokuBaseSprite_118
+    21300238: GokuBaseSprite_119
+    21300240: GokuBaseSprite_120
+    21300242: GokuBaseSprite_121
+    21300244: GokuBaseSprite_122
+    21300246: GokuBaseSprite_123
+    21300248: GokuBaseSprite_124
+    21300250: GokuBaseSprite_125
+    21300252: GokuBaseSprite_126
+    21300254: GokuBaseSprite_127
+    21300256: GokuBaseSprite_128
+    21300258: GokuBaseSprite_129
+    21300260: GokuBaseSprite_130
+    21300262: GokuBaseSprite_131
+    21300264: GokuBaseSprite_132
+    21300266: GokuBaseSprite_133
+    21300268: GokuBaseSprite_134
+    21300270: GokuBaseSprite_135
+    21300272: GokuBaseSprite_136
+    21300274: GokuBaseSprite_137
+    21300276: GokuBaseSprite_138
+    21300278: GokuBaseSprite_139
+    21300280: GokuBaseSprite_140
+    21300282: GokuBaseSprite_141
+    21300284: GokuBaseSprite_142
+    21300286: GokuBaseSprite_143
+    21300288: GokuBaseSprite_144
+    21300290: GokuBaseSprite_145
+    21300292: GokuBaseSprite_146
+    21300294: GokuBaseSprite_147
+    21300296: GokuBaseSprite_148
+    21300298: GokuBaseSprite_149
+    21300300: GokuBaseSprite_150
+    21300302: GokuBaseSprite_151
+    21300304: GokuBaseSprite_152
+    21300306: GokuBaseSprite_153
+    21300308: GokuBaseSprite_154
+    21300310: GokuBaseSprite_155
+    21300312: GokuBaseSprite_156
+    21300314: GokuBaseSprite_157
+    21300316: GokuBaseSprite_158
+    21300318: GokuBaseSprite_159
+    21300320: GokuBaseSprite_160
+    21300322: GokuBaseSprite_161
+    21300324: GokuBaseSprite_162
+    21300326: GokuBaseSprite_163
+    21300328: GokuBaseSprite_164
+    21300330: GokuBaseSprite_165
+    21300332: GokuBaseSprite_166
+    21300334: GokuBaseSprite_167
+    21300336: GokuBaseSprite_168
+    21300338: GokuBaseSprite_169
+    21300340: GokuBaseSprite_170
+    21300342: GokuBaseSprite_171
+    21300344: GokuBaseSprite_172
+    21300346: GokuBaseSprite_173
+    21300348: GokuBaseSprite_174
+    21300350: GokuBaseSprite_175
+    21300352: GokuBaseSprite_176
+    21300354: GokuBaseSprite_177
+    21300356: GokuBaseSprite_178
+    21300358: GokuBaseSprite_179
+    21300360: GokuBaseSprite_180
+    21300362: GokuBaseSprite_181
+    21300364: GokuBaseSprite_182
+    21300366: GokuBaseSprite_183
+    21300368: GokuBaseSprite_184
+    21300370: GokuBaseSprite_185
+    21300372: GokuBaseSprite_186
+    21300374: GokuBaseSprite_187
+    21300376: GokuBaseSprite_188
+    21300378: GokuBaseSprite_189
+    21300380: GokuBaseSprite_190
+    21300382: GokuBaseSprite_191
+    21300384: GokuBaseSprite_192
+    21300386: GokuBaseSprite_193
+    21300388: GokuBaseSprite_194
+    21300390: GokuBaseSprite_195
+    21300392: GokuBaseSprite_196
+    21300394: GokuBaseSprite_197
+    21300396: GokuBaseSprite_198
+    21300398: GokuBaseSprite_199
+    21300400: GokuBaseSprite_200
+    21300402: GokuBaseSprite_201
+    21300404: GokuBaseSprite_202
+    21300406: GokuBaseSprite_203
+    21300408: GokuBaseSprite_204
+    21300410: GokuBaseSprite_205
+    21300412: GokuBaseSprite_206
+    21300414: GokuBaseSprite_207
+    21300416: GokuBaseSprite_208
+    21300418: GokuBaseSprite_209
+    21300420: GokuBaseSprite_210
+    21300422: GokuBaseSprite_211
+    21300424: GokuBaseSprite_212
+    21300426: GokuBaseSprite_213
+    21300428: GokuBaseSprite_214
+    21300430: GokuBaseSprite_215
+    21300432: GokuBaseSprite_216
+    21300434: GokuBaseSprite_217
+    21300436: GokuBaseSprite_218
+    21300438: GokuBaseSprite_219
+    21300440: GokuBaseSprite_220
+    21300442: GokuBaseSprite_221
+    21300444: GokuBaseSprite_222
+    21300446: GokuBaseSprite_223
+    21300448: GokuBaseSprite_224
+    21300450: GokuBaseSprite_225
+    21300452: GokuBaseSprite_226
+    21300454: GokuBaseSprite_227
+    21300456: GokuBaseSprite_228
+    21300458: GokuBaseSprite_229
+    21300460: GokuBaseSprite_230
+    21300462: GokuBaseSprite_231
+    21300464: GokuBaseSprite_232
+    21300466: GokuBaseSprite_233
+    21300468: GokuBaseSprite_234
+    21300470: GokuBaseSprite_235
+    21300472: GokuBaseSprite_236
+    21300474: GokuBaseSprite_237
+    21300476: GokuBaseSprite_238
+    21300478: GokuBaseSprite_239
+    21300480: GokuBaseSprite_240
+    21300482: GokuBaseSprite_241
+    21300484: GokuBaseSprite_242
+    21300486: GokuBaseSprite_243
+    21300488: GokuBaseSprite_244
+    21300490: GokuBaseSprite_245
+    21300492: GokuBaseSprite_246
+    21300494: GokuBaseSprite_247
+    21300496: GokuBaseSprite_248
+    21300498: GokuBaseSprite_249
+    21300500: GokuBaseSprite_250
+    21300502: GokuBaseSprite_251
+    21300504: GokuBaseSprite_252
+    21300506: GokuBaseSprite_253
+    21300508: GokuBaseSprite_254
+    21300510: GokuBaseSprite_255
+    21300512: GokuBaseSprite_256
+    21300514: GokuBaseSprite_257
+    21300516: GokuBaseSprite_258
+    21300518: GokuBaseSprite_259
+    21300520: GokuBaseSprite_260
+    21300522: GokuBaseSprite_261
+    21300524: GokuBaseSprite_262
+    21300526: GokuBaseSprite_263
+    21300528: GokuBaseSprite_264
+    21300530: GokuBaseSprite_265
+    21300532: GokuBaseSprite_266
+    21300534: GokuBaseSprite_267
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GokuBaseSprite_0
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1083
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1083
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1083
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_3
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1083
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_4
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1083
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_5
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1083
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_6
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1083
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_7
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1083
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_8
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1083
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_9
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1083
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_10
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1083
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_11
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1083
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_12
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1029
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 17}
+        - {x: 30, y: 18}
+        - {x: 27, y: 16}
+        - {x: 28, y: 18}
+        - {x: 30, y: 25}
+        - {x: 25, y: 28}
+        - {x: -25, y: 28}
+        - {x: -32, y: 22}
+        - {x: -32, y: -15}
+        - {x: -29, y: -23}
+        - {x: -25, y: -28}
+        - {x: 25, y: -28}
+        - {x: 29, y: -23}
+        - {x: 28, y: -21}
+        - {x: 32, y: -13}
+    - name: GokuBaseSprite_13
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1029
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 16}
+        - {x: 31.5, y: 22}
+        - {x: 31.5, y: 28}
+        - {x: -31.5, y: 28}
+        - {x: -31.5, y: -25}
+        - {x: -30.5, y: -28}
+        - {x: 31.5, y: -28}
+        - {x: 31.5, y: 17}
+        - {x: 29.5, y: 18}
+    - name: GokuBaseSprite_14
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1029
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 17}
+        - {x: 30, y: 18}
+        - {x: 27, y: 16}
+        - {x: 28, y: 18}
+        - {x: 30, y: 25}
+        - {x: 25, y: 28}
+        - {x: -25, y: 28}
+        - {x: -32, y: 22}
+        - {x: -32, y: -15}
+        - {x: -29, y: -23}
+        - {x: -25, y: -28}
+        - {x: 25, y: -28}
+        - {x: 29, y: -23}
+        - {x: 28, y: -21}
+        - {x: 32, y: -13}
+    - name: GokuBaseSprite_15
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1029
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1029
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_17
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1029
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_18
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1029
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_19
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1029
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_20
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1029
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 21.5}
+        - {x: -16, y: 10.5}
+        - {x: -16, y: -21.5}
+        - {x: 12, y: -21.5}
+        - {x: 16, y: -7.5}
+        - {x: 16, y: 19.5}
+        - {x: 12, y: 21.5}
+    - name: GokuBaseSprite_21
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1029
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_22
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1029
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_23
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1029
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 21}
+        - {x: -11, y: 20}
+        - {x: -14, y: 17}
+        - {x: -16, y: 12}
+        - {x: -16, y: -21}
+        - {x: 2, y: -21}
+        - {x: 16, y: -11}
+        - {x: 16, y: 15}
+        - {x: 13, y: 21}
+    - name: GokuBaseSprite_24
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1029
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_25
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1029
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_26
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1029
+        width: 33
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_27
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1029
+        width: 4
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_28
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1029
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_29
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1029
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_30
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1029
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_31
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 973
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 22}
+        - {x: -16, y: 12}
+        - {x: -16, y: -22}
+        - {x: 11, y: -22}
+        - {x: 16, y: -15}
+        - {x: 16, y: 20}
+        - {x: 10, y: 22}
+    - name: GokuBaseSprite_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 973
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 22}
+        - {x: -11, y: 21}
+        - {x: -16, y: 13}
+        - {x: -16, y: -22}
+        - {x: 12, y: -22}
+        - {x: 16, y: -20}
+        - {x: 16, y: 14}
+        - {x: 11, y: 22}
+    - name: GokuBaseSprite_33
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 973
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 22}
+        - {x: -12, y: 21}
+        - {x: -19, y: 12}
+        - {x: -19, y: -22}
+        - {x: 17, y: -22}
+        - {x: 19, y: -18}
+        - {x: 19, y: 17}
+        - {x: 14, y: 22}
+    - name: GokuBaseSprite_34
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 973
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 23}
+        - {x: -16, y: 15}
+        - {x: -16, y: -23}
+        - {x: 10, y: -23}
+        - {x: 16, y: -8}
+        - {x: 16, y: 19}
+        - {x: 10, y: 23}
+    - name: GokuBaseSprite_35
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 973
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_36
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 973
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_37
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 973
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 23}
+        - {x: -12, y: 23}
+        - {x: -14, y: 22}
+        - {x: -17, y: 15}
+        - {x: -17, y: -23}
+        - {x: 16, y: -23}
+        - {x: 17, y: -21}
+        - {x: 17, y: 17}
+    - name: GokuBaseSprite_38
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 973
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 20.5}
+        - {x: -11.5, y: 18.5}
+        - {x: -15.5, y: 5.5}
+        - {x: -14.5, y: 3.5}
+        - {x: -17.5, y: -7.5}
+        - {x: -17.5, y: -20.5}
+        - {x: 11.5, y: -20.5}
+        - {x: 17.5, y: -9.5}
+        - {x: 17.5, y: 20.5}
+    - name: GokuBaseSprite_39
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 973
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 16.5}
+        - {x: -17, y: 15.5}
+        - {x: -20, y: 10.5}
+        - {x: -20, y: -7.5}
+        - {x: -15, y: -22.5}
+        - {x: 5, y: -22.5}
+        - {x: 20, y: -15.5}
+        - {x: 20, y: 13.5}
+        - {x: 16, y: 20.5}
+        - {x: 11, y: 22.5}
+        - {x: -14, y: 22.5}
+        - {x: -16, y: 19.5}
+    - name: GokuBaseSprite_40
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 973
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 20.5}
+        - {x: -20.5, y: 13.5}
+        - {x: -20.5, y: -9.5}
+        - {x: -6.5, y: -17.5}
+        - {x: 2.5, y: -20.5}
+        - {x: 18.5, y: -20.5}
+        - {x: 20.5, y: -1.5}
+        - {x: 20.5, y: 20.5}
+    - name: GokuBaseSprite_41
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 973
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 23.5}
+        - {x: -20, y: 19.5}
+        - {x: -20, y: -16.5}
+        - {x: -14, y: -23.5}
+        - {x: 1, y: -23.5}
+        - {x: 20, y: -15.5}
+        - {x: 20, y: 7.5}
+        - {x: 13, y: 23.5}
+    - name: GokuBaseSprite_42
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 973
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_43
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 973
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 19}
+        - {x: -20, y: 13}
+        - {x: -20, y: -19}
+        - {x: 3, y: -19}
+        - {x: 19, y: -16}
+        - {x: 20, y: -12}
+        - {x: 20, y: 1}
+        - {x: 9, y: 19}
+    - name: GokuBaseSprite_44
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 973
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 21}
+        - {x: -19.5, y: 15}
+        - {x: -19.5, y: -16}
+        - {x: -14.5, y: -21}
+        - {x: 9.5, y: -21}
+        - {x: 19.5, y: -11}
+        - {x: 19.5, y: 7}
+        - {x: 9.5, y: 21}
+    - name: GokuBaseSprite_45
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 973
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 21}
+        - {x: -17, y: 20}
+        - {x: -20, y: 13}
+        - {x: -20, y: -7}
+        - {x: -18, y: -16}
+        - {x: -9, y: -21}
+        - {x: 7, y: -21}
+        - {x: 20, y: -15}
+        - {x: 20, y: 12}
+        - {x: 11, y: 21}
+    - name: GokuBaseSprite_46
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 973
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_47
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 973
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_48
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 973
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 16}
+        - {x: -5.5, y: 16}
+        - {x: -17.5, y: 13}
+        - {x: -18.5, y: 3}
+        - {x: -18.5, y: -15}
+        - {x: -15.5, y: -16}
+        - {x: 10.5, y: -16}
+        - {x: 18.5, y: -11}
+        - {x: 18.5, y: 14}
+    - name: GokuBaseSprite_49
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 973
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 16}
+        - {x: -15.5, y: 12}
+        - {x: -18.5, y: 0}
+        - {x: -18.5, y: -16}
+        - {x: 17.5, y: -16}
+        - {x: 18.5, y: -14}
+        - {x: 18.5, y: 11}
+        - {x: 16.5, y: 16}
+    - name: GokuBaseSprite_50
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 973
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 16}
+        - {x: -17.5, y: 13}
+        - {x: -18.5, y: 8}
+        - {x: -18.5, y: -16}
+        - {x: 13.5, y: -16}
+        - {x: 18.5, y: -8}
+        - {x: 18.5, y: 16}
+    - name: GokuBaseSprite_51
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 912
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 25}
+        - {x: -16, y: 19}
+        - {x: -16, y: -11}
+        - {x: -11, y: -25}
+        - {x: 5, y: -25}
+        - {x: 15, y: -23}
+        - {x: 16, y: -21}
+        - {x: 16, y: 9}
+        - {x: 7, y: 25}
+    - name: GokuBaseSprite_52
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 912
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20.5}
+        - {x: -19, y: 17.5}
+        - {x: -19, y: -20.5}
+        - {x: 16, y: -20.5}
+        - {x: 19, y: -19.5}
+        - {x: 19, y: 16.5}
+        - {x: 15, y: 20.5}
+    - name: GokuBaseSprite_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 912
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 20.5}
+        - {x: -8.5, y: 20.5}
+        - {x: -16.5, y: 15.5}
+        - {x: -16.5, y: -8.5}
+        - {x: -9.5, y: -20.5}
+        - {x: 5.5, y: -20.5}
+        - {x: 16.5, y: -11.5}
+        - {x: 16.5, y: 16.5}
+    - name: GokuBaseSprite_54
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 912
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 20.5}
+        - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -14.5}
+        - {x: -12.5, y: -20.5}
+        - {x: 1.5, y: -20.5}
+        - {x: 3.5, y: -19.5}
+        - {x: 16.5, y: -4.5}
+        - {x: 16.5, y: 15.5}
+        - {x: 11.5, y: 20.5}
+    - name: GokuBaseSprite_55
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 912
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_56
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 912
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 22.5}
+        - {x: -24, y: 16.5}
+        - {x: -24, y: -4.5}
+        - {x: -14, y: -22.5}
+        - {x: 12, y: -22.5}
+        - {x: 24, y: -4.5}
+        - {x: 24, y: 10.5}
+        - {x: 10, y: 22.5}
+    - name: GokuBaseSprite_57
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 912
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22.5}
+        - {x: -22, y: 20.5}
+        - {x: -22, y: -12.5}
+        - {x: -5, y: -22.5}
+        - {x: 9, y: -22.5}
+        - {x: 22, y: -9.5}
+        - {x: 22, y: 16.5}
+        - {x: 11, y: 22.5}
+    - name: GokuBaseSprite_58
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 912
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 22.5}
+        - {x: -22, y: -4.5}
+        - {x: -20, y: -10.5}
+        - {x: -15, y: -22.5}
+        - {x: 22, y: -22.5}
+        - {x: 22, y: 12.5}
+        - {x: 12, y: 22.5}
+    - name: GokuBaseSprite_59
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 912
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 22}
+        - {x: -21, y: 20}
+        - {x: -21, y: -8}
+        - {x: -20, y: -12}
+        - {x: -13, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 14}
+        - {x: 9, y: 22}
+    - name: GokuBaseSprite_60
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 912
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 23}
+        - {x: -16, y: 23}
+        - {x: -18, y: 20}
+        - {x: -18, y: 7}
+        - {x: -16, y: 5}
+        - {x: -18, y: 3}
+        - {x: -18, y: -4}
+        - {x: -16, y: -6}
+        - {x: -10, y: -6}
+        - {x: -9, y: -5}
+        - {x: -7, y: -5}
+        - {x: -9, y: -5}
+        - {x: -14, y: -9}
+        - {x: -15, y: -17}
+        - {x: -12, y: -23}
+        - {x: 17, y: -23}
+        - {x: 18, y: -21}
+        - {x: 18, y: 16}
+        - {x: 15, y: 22}
+    - name: GokuBaseSprite_61
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 912
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -3}
+        - {x: 17, y: -1}
+        - {x: 17, y: 18}
+        - {x: 14, y: 24}
+        - {x: -7, y: 24}
+        - {x: -17, y: 17}
+        - {x: -17, y: -21}
+        - {x: -16, y: -24}
+        - {x: 8, y: -24}
+        - {x: 12, y: -16}
+        - {x: 11, y: -11}
+        - {x: 6, y: -6}
+    - name: GokuBaseSprite_62
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 912
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 23.5}
+        - {x: -16.5, y: 19.5}
+        - {x: -16.5, y: -23.5}
+        - {x: 14.5, y: -23.5}
+        - {x: 16.5, y: -19.5}
+        - {x: 16.5, y: 23.5}
+    - name: GokuBaseSprite_63
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 912
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 21.5}
+        - {x: -15.5, y: 20.5}
+        - {x: -21.5, y: 6.5}
+        - {x: -21.5, y: -21.5}
+        - {x: -2.5, y: -21.5}
+        - {x: 21.5, y: -10.5}
+        - {x: 21.5, y: 4.5}
+        - {x: 10.5, y: 21.5}
+    - name: GokuBaseSprite_64
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 912
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 21}
+        - {x: -10, y: 17}
+        - {x: -19, y: 5}
+        - {x: -19, y: -21}
+        - {x: 19, y: -21}
+        - {x: 19, y: 21}
+    - name: GokuBaseSprite_65
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 912
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 21.5}
+        - {x: -17, y: 10.5}
+        - {x: -17, y: -21.5}
+        - {x: 14, y: -21.5}
+        - {x: 17, y: -14.5}
+        - {x: 17, y: 21.5}
+    - name: GokuBaseSprite_66
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 912
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -7.5}
+        - {x: 21, y: 15.5}
+        - {x: 19, y: 21.5}
+        - {x: -4, y: 21.5}
+        - {x: -10, y: 19.5}
+        - {x: -21, y: -7.5}
+        - {x: -21, y: -21.5}
+        - {x: 13, y: -21.5}
+    - name: GokuBaseSprite_67
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 912
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 21.5}
+        - {x: -8.5, y: 20.5}
+        - {x: -18.5, y: 6.5}
+        - {x: -18.5, y: -21.5}
+        - {x: 15.5, y: -21.5}
+        - {x: 18.5, y: -7.5}
+        - {x: 18.5, y: 19.5}
+        - {x: 17.5, y: 21.5}
+    - name: GokuBaseSprite_68
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 912
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 23.5}
+        - {x: -17.5, y: -23.5}
+        - {x: 17.5, y: -23.5}
+        - {x: 17.5, y: -0.5}
+        - {x: 5.5, y: 23.5}
+    - name: GokuBaseSprite_69
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 912
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22.5}
+        - {x: -19, y: -7.5}
+        - {x: -15, y: -22.5}
+        - {x: 19, y: -22.5}
+        - {x: 19, y: 17.5}
+        - {x: 6, y: 22.5}
+    - name: GokuBaseSprite_70
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 912
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 21.5}
+        - {x: -16, y: 21.5}
+        - {x: -19, y: 15.5}
+        - {x: -19, y: -12.5}
+        - {x: -16, y: -18.5}
+        - {x: -14, y: -21.5}
+        - {x: 19, y: -21.5}
+        - {x: 19, y: 6.5}
+        - {x: 16, y: 18.5}
+    - name: GokuBaseSprite_71
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 912
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 22.5}
+        - {x: -17, y: 22.5}
+        - {x: -19, y: 21.5}
+        - {x: -19, y: -8.5}
+        - {x: -17, y: -9.5}
+        - {x: -14, y: -22.5}
+        - {x: 19, y: -22.5}
+        - {x: 19, y: -10.5}
+        - {x: 12, y: 14.5}
+    - name: GokuBaseSprite_72
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 792
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_73
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 855
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 24}
+        - {x: -5, y: 24}
+        - {x: -8, y: 23}
+        - {x: -22, y: 19}
+        - {x: -22, y: 1}
+        - {x: -5, y: -24}
+        - {x: 7, y: -24}
+        - {x: 16, y: -9}
+        - {x: 22, y: 9}
+        - {x: 22, y: 23}
+    - name: GokuBaseSprite_74
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 792
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 21}
+        - {x: -17, y: 13}
+        - {x: -18, y: 10}
+        - {x: -18, y: -7}
+        - {x: -12, y: -21}
+        - {x: 18, y: -21}
+        - {x: 18, y: 19}
+        - {x: 13, y: 21}
+    - name: GokuBaseSprite_75
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 855
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 24}
+        - {x: -18, y: 15}
+        - {x: -18, y: -9}
+        - {x: -14, y: -23}
+        - {x: -11, y: -24}
+        - {x: 5, y: -24}
+        - {x: 18, y: 0}
+        - {x: 18, y: 17}
+        - {x: 14, y: 24}
+      - - {x: 14, y: -21}
+        - {x: 14, y: -24}
+        - {x: 18, y: -24}
+        - {x: 18, y: -17}
+        - {x: 15, y: -18}
+    - name: GokuBaseSprite_76
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 792
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_77
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 854
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 18.5}
+        - {x: -18, y: 5.5}
+        - {x: -18, y: -18.5}
+        - {x: 16, y: -18.5}
+        - {x: 18, y: -11.5}
+        - {x: 18, y: 14.5}
+        - {x: 16, y: 18.5}
+    - name: GokuBaseSprite_78
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 792
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_79
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 855
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 22}
+        - {x: -6, y: 21}
+        - {x: -20, y: 8}
+        - {x: -20, y: -20}
+        - {x: -8, y: -22}
+        - {x: 20, y: -22}
+        - {x: 20, y: 19}
+        - {x: 17, y: 22}
+    - name: GokuBaseSprite_80
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 792
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_81
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 855
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 21.5}
+        - {x: -19.5, y: 9.5}
+        - {x: -19.5, y: -21.5}
+        - {x: 6.5, y: -21.5}
+        - {x: 19.5, y: -16.5}
+        - {x: 19.5, y: 19.5}
+        - {x: 15.5, y: 21.5}
+    - name: GokuBaseSprite_82
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 792
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_83
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 855
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 21.5}
+        - {x: -17, y: 17.5}
+        - {x: -22, y: 2.5}
+        - {x: -22, y: -21.5}
+        - {x: 20, y: -21.5}
+        - {x: 22, y: -16.5}
+        - {x: 22, y: 19.5}
+        - {x: 19, y: 21.5}
+    - name: GokuBaseSprite_84
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 792
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17}
+        - {x: -14, y: 14}
+        - {x: -16, y: 10}
+        - {x: -16, y: -12}
+        - {x: -15, y: -17}
+        - {x: 8, y: -17}
+        - {x: 16, y: -11}
+        - {x: 16, y: 17}
+    - name: GokuBaseSprite_85
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 792
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_86
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 855
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 22}
+        - {x: -23, y: 0}
+        - {x: -23, y: -16}
+        - {x: -7, y: -22}
+        - {x: 17, y: -22}
+        - {x: 23, y: -7}
+        - {x: 23, y: 19}
+        - {x: 22, y: 22}
+    - name: GokuBaseSprite_87
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 792
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_88
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 832
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_89
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 855
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 22.5}
+        - {x: -5, y: 22.5}
+        - {x: -21, y: 4.5}
+        - {x: -21, y: -19.5}
+        - {x: -14, y: -22.5}
+        - {x: 2, y: -22.5}
+        - {x: 17, y: -6.5}
+        - {x: 21, y: 3.5}
+        - {x: 21, y: 17.5}
+    - name: GokuBaseSprite_90
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 792
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_91
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 832
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_92
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 855
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 22}
+        - {x: -21.5, y: 13}
+        - {x: -21.5, y: -22}
+        - {x: 21.5, y: -22}
+        - {x: 21.5, y: 22}
+    - name: GokuBaseSprite_93
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 793
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_94
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 855
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_95
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 792
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_96
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 855
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_97
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 793
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_98
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 855
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_99
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 855
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_100
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 794
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_101
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 855
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 23.5}
+        - {x: -7, y: 23.5}
+        - {x: -17, y: 14.5}
+        - {x: -17, y: -8.5}
+        - {x: -15, y: -23.5}
+        - {x: 6, y: -23.5}
+        - {x: 8, y: -10.5}
+        - {x: 14, y: 10.5}
+        - {x: 14, y: 18.5}
+      - - {x: 14, y: 14.5}
+        - {x: 16, y: 12.5}
+        - {x: 17, y: 12.5}
+        - {x: 17, y: 17.5}
+        - {x: 15, y: 17.5}
+    - name: GokuBaseSprite_102
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 855
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_103
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 794
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_104
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 855
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_105
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 855
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_106
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 794
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_107
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 794
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_108
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 794
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_109
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 793
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 23.5}
+        - {x: -16, y: 14.5}
+        - {x: -16, y: -23.5}
+        - {x: 14, y: -23.5}
+        - {x: 16, y: -14.5}
+        - {x: 16, y: 21.5}
+        - {x: 11, y: 23.5}
+    - name: GokuBaseSprite_110
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 792
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 24.5}
+        - {x: -17, y: -22.5}
+        - {x: -15, y: -24.5}
+        - {x: 14, y: -24.5}
+        - {x: 17, y: -20.5}
+        - {x: 17, y: 24.5}
+    - name: GokuBaseSprite_111
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 791
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 25.5}
+        - {x: -6, y: 25.5}
+        - {x: -18, y: 13.5}
+        - {x: -18, y: -11.5}
+        - {x: -15, y: -25.5}
+        - {x: 13, y: -25.5}
+        - {x: 16, y: -21.5}
+        - {x: 18, y: -5.5}
+        - {x: 18, y: 19.5}
+    - name: GokuBaseSprite_112
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 728
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 22}
+        - {x: -16, y: 12}
+        - {x: -16, y: -22}
+        - {x: 12, y: -22}
+        - {x: 16, y: -12}
+        - {x: 16, y: 22}
+    - name: GokuBaseSprite_113
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 745
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_114
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 745
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_115
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 722
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 30}
+        - {x: -30.5, y: 25}
+        - {x: -30.5, y: -18}
+        - {x: -18.5, y: -30}
+        - {x: 19.5, y: -30}
+        - {x: 30.5, y: -17}
+        - {x: 30.5, y: 19}
+        - {x: 21.5, y: 30}
+    - name: GokuBaseSprite_116
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 674
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_117
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 708
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_118
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 706
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -18, y: 13}
+        - {x: -18, y: -10}
+        - {x: -14, y: -16}
+        - {x: 5, y: -16}
+        - {x: 18, y: -9}
+        - {x: 18, y: 5}
+        - {x: 6, y: 16}
+    - name: GokuBaseSprite_119
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 674
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_120
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 674
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 24}
+        - {x: -13, y: 24}
+        - {x: -16, y: 22}
+        - {x: -16, y: -6}
+        - {x: -12, y: -24}
+        - {x: 13, y: -24}
+        - {x: 16, y: -2}
+        - {x: 16, y: 20}
+    - name: GokuBaseSprite_121
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 674
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_122
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 674
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_123
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 674
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 24}
+        - {x: -17, y: -11}
+        - {x: -15, y: -24}
+        - {x: 15, y: -24}
+        - {x: 17, y: -20}
+        - {x: 17, y: 19}
+        - {x: 14, y: 24}
+    - name: GokuBaseSprite_124
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 674
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 24}
+        - {x: -17, y: -24}
+        - {x: 14, y: -24}
+        - {x: 17, y: -16}
+        - {x: 17, y: 22}
+        - {x: 15, y: 24}
+    - name: GokuBaseSprite_125
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 674
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 27}
+        - {x: -20, y: 22}
+        - {x: -20, y: -7}
+        - {x: -15, y: -10}
+        - {x: -17, y: -8}
+        - {x: -14, y: -13}
+        - {x: -18, y: -17}
+        - {x: -17, y: -26}
+        - {x: -16, y: -27}
+        - {x: 18, y: -27}
+        - {x: 20, y: -19}
+        - {x: 20, y: 23}
+        - {x: 19, y: 27}
+    - name: GokuBaseSprite_126
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 674
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 27.5}
+        - {x: -20, y: -27.5}
+        - {x: 20, y: -27.5}
+        - {x: 20, y: 27.5}
+      - - {x: 16, y: -8.5}
+        - {x: 19, y: -7.5}
+        - {x: 19, y: -4.5}
+        - {x: 16, y: -3.5}
+        - {x: 14, y: -5.5}
+      - - {x: -3, y: 25.5}
+        - {x: -3, y: 27.5}
+        - {x: -8, y: 27.5}
+        - {x: -6, y: 24.5}
+    - name: GokuBaseSprite_127
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 674
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 26.5}
+        - {x: -20, y: -20.5}
+        - {x: -18, y: -20.5}
+        - {x: -17, y: -17.5}
+        - {x: -20, y: -24.5}
+        - {x: -20, y: -26.5}
+        - {x: 20, y: -26.5}
+        - {x: 20, y: 19.5}
+        - {x: 12, y: 26.5}
+    - name: GokuBaseSprite_128
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 674
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 24}
+        - {x: -18, y: 23}
+        - {x: -18, y: -24}
+        - {x: 13, y: -24}
+        - {x: 18, y: -7}
+        - {x: 18, y: 24}
+    - name: GokuBaseSprite_129
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 674
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_130
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 674
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 20.5}
+        - {x: -16, y: 12.5}
+        - {x: -16, y: -17.5}
+        - {x: -10, y: -20.5}
+        - {x: 9, y: -20.5}
+        - {x: 16, y: -9.5}
+        - {x: 16, y: 20.5}
+    - name: GokuBaseSprite_131
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 674
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_132
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 692
+        width: 64
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_133
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 674
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16.5}
+        - {x: -18, y: 13.5}
+        - {x: -18, y: -16.5}
+        - {x: 8, y: -16.5}
+        - {x: 18, y: -10.5}
+        - {x: 18, y: 15.5}
+        - {x: 17, y: 16.5}
+    - name: GokuBaseSprite_134
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 674
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16.5}
+        - {x: -18, y: 13.5}
+        - {x: -18, y: -16.5}
+        - {x: 15, y: -16.5}
+        - {x: 18, y: -11.5}
+        - {x: 18, y: 16.5}
+    - name: GokuBaseSprite_135
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 673
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 17}
+        - {x: -18, y: 13}
+        - {x: -18, y: -17}
+        - {x: 14, y: -17}
+        - {x: 18, y: -8}
+        - {x: 18, y: 17}
+    - name: GokuBaseSprite_136
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 689
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_137
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 620
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 13}
+        - {x: 9, y: 22}
+        - {x: -4, y: 22}
+        - {x: -10, y: 19}
+        - {x: -16, y: 12}
+        - {x: -16, y: -22}
+        - {x: 5, y: -22}
+        - {x: 9, y: -21}
+        - {x: 16, y: -6}
+    - name: GokuBaseSprite_138
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 656
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_139
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 656
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_140
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 637
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_141
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 637
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_142
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 607
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 22.5}
+        - {x: -13, y: 21.5}
+        - {x: -18, y: 14.5}
+        - {x: -18, y: -15.5}
+        - {x: -17, y: -22.5}
+        - {x: 7, y: -22.5}
+        - {x: 18, y: -5.5}
+        - {x: 18, y: 11.5}
+        - {x: 12, y: 22.5}
+    - name: GokuBaseSprite_143
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 607
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 22.5}
+        - {x: -13, y: 21.5}
+        - {x: -18, y: 14.5}
+        - {x: -18, y: -15.5}
+        - {x: -17, y: -22.5}
+        - {x: 7, y: -22.5}
+        - {x: 18, y: -5.5}
+        - {x: 18, y: 11.5}
+        - {x: 12, y: 22.5}
+    - name: GokuBaseSprite_144
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 607
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 23}
+        - {x: -17, y: -23}
+        - {x: 13, y: -23}
+        - {x: 17, y: -16}
+        - {x: 17, y: 11}
+        - {x: 5, y: 23}
+    - name: GokuBaseSprite_145
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 607
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 23}
+        - {x: -16.5, y: 18}
+        - {x: -16.5, y: -23}
+        - {x: 13.5, y: -23}
+        - {x: 16.5, y: -17}
+        - {x: 16.5, y: 10}
+        - {x: 2.5, y: 23}
+    - name: GokuBaseSprite_146
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 607
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 23}
+        - {x: -17, y: -23}
+        - {x: 13, y: -23}
+        - {x: 17, y: -16}
+        - {x: 17, y: 11}
+        - {x: 5, y: 23}
+    - name: GokuBaseSprite_147
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 607
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 23}
+        - {x: -17, y: -23}
+        - {x: 13, y: -23}
+        - {x: 17, y: -16}
+        - {x: 17, y: 11}
+        - {x: 5, y: 23}
+    - name: GokuBaseSprite_148
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 607
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 24}
+        - {x: -14, y: 24}
+        - {x: -17, y: 23}
+        - {x: -17, y: -24}
+        - {x: 14, y: -24}
+        - {x: 17, y: -19}
+        - {x: 17, y: 9}
+        - {x: 8, y: 18}
+    - name: GokuBaseSprite_149
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 607
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 24}
+        - {x: -14, y: 24}
+        - {x: -17, y: 23}
+        - {x: -17, y: -24}
+        - {x: 14, y: -24}
+        - {x: 17, y: -19}
+        - {x: 17, y: 9}
+        - {x: 8, y: 18}
+    - name: GokuBaseSprite_150
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 578
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_151
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 593
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_152
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 578
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_153
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 529
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_154
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 550
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_155
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 529
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_156
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 529
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20.5}
+        - {x: -16, y: 18.5}
+        - {x: -21, y: -7.5}
+        - {x: -21, y: -20.5}
+        - {x: 15, y: -20.5}
+        - {x: 21, y: -9.5}
+        - {x: 21, y: 18.5}
+        - {x: 17, y: 20.5}
+    - name: GokuBaseSprite_157
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 529
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 21.5}
+        - {x: -21, y: 5.5}
+        - {x: -22, y: 0.5}
+        - {x: -22, y: -21.5}
+        - {x: 13, y: -21.5}
+        - {x: 22, y: -13.5}
+        - {x: 22, y: 18.5}
+        - {x: 14, y: 21.5}
+    - name: GokuBaseSprite_158
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 529
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 24}
+        - {x: -18, y: 23}
+        - {x: -18, y: -24}
+        - {x: 13, y: -24}
+        - {x: 18, y: -7}
+        - {x: 18, y: 24}
+    - name: GokuBaseSprite_159
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 529
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_160
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 529
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_161
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 529
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 22.5}
+        - {x: -6.5, y: 22.5}
+        - {x: -11.5, y: 20.5}
+        - {x: -16.5, y: 10.5}
+        - {x: -16.5, y: -22.5}
+        - {x: 11.5, y: -22.5}
+        - {x: 16.5, y: -4.5}
+        - {x: 16.5, y: 17.5}
+    - name: GokuBaseSprite_162
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 529
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 22.5}
+        - {x: -12.5, y: 21.5}
+        - {x: -16.5, y: 11.5}
+        - {x: -16.5, y: -22.5}
+        - {x: 13.5, y: -22.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 17.5}
+        - {x: 14.5, y: 22.5}
+    - name: GokuBaseSprite_163
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 529
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 22.5}
+        - {x: -12.5, y: 21.5}
+        - {x: -16.5, y: 11.5}
+        - {x: -16.5, y: -22.5}
+        - {x: 16.5, y: -22.5}
+        - {x: 16.5, y: 16.5}
+        - {x: 13.5, y: 22.5}
+    - name: GokuBaseSprite_164
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 529
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 22.5}
+        - {x: -14, y: 21.5}
+        - {x: -18, y: 11.5}
+        - {x: -18, y: -22.5}
+        - {x: 11, y: -22.5}
+        - {x: 18, y: -9.5}
+        - {x: 18, y: 11.5}
+        - {x: 10, y: 22.5}
+    - name: GokuBaseSprite_165
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 529
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 22.5}
+        - {x: -18, y: 13.5}
+        - {x: -18, y: -22.5}
+        - {x: 13, y: -22.5}
+        - {x: 18, y: -14.5}
+        - {x: 18, y: 12.5}
+        - {x: 14, y: 22.5}
+    - name: GokuBaseSprite_166
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 529
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 22.5}
+        - {x: -14.5, y: 21.5}
+        - {x: -17.5, y: 15.5}
+        - {x: -17.5, y: -22.5}
+        - {x: 9.5, y: -22.5}
+        - {x: 17.5, y: -14.5}
+        - {x: 17.5, y: 12.5}
+        - {x: 12.5, y: 22.5}
+    - name: GokuBaseSprite_167
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 529
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 22}
+        - {x: -19, y: 18}
+        - {x: -21, y: 12}
+        - {x: -21, y: -6}
+        - {x: -19, y: -11}
+        - {x: -14, y: -22}
+        - {x: 17, y: -22}
+        - {x: 21, y: -12}
+        - {x: 21, y: 22}
+    - name: GokuBaseSprite_168
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 529
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 22}
+        - {x: -18, y: 13}
+        - {x: -19, y: 11}
+        - {x: -19, y: -16}
+        - {x: -17, y: -22}
+        - {x: 13, y: -22}
+        - {x: 19, y: -9}
+        - {x: 19, y: 16}
+        - {x: 11, y: 22}
+    - name: GokuBaseSprite_169
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 529
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 22}
+        - {x: -19, y: 7}
+        - {x: -19, y: -22}
+        - {x: 12, y: -22}
+        - {x: 19, y: -10}
+        - {x: 19, y: 11}
+        - {x: 11, y: 22}
+    - name: GokuBaseSprite_170
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 546
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_171
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 546
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_172
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 495
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_173
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 495
+        width: 37
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_174
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 495
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_175
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 499
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_176
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 499
+        width: 37
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_177
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 499
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_178
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 440
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.5, y: 15}
+        - {x: 0.5, y: 32}
+        - {x: -42.5, y: 32}
+        - {x: -42.5, y: -32}
+        - {x: 24.5, y: -32}
+        - {x: 25.5, y: -18}
+        - {x: 24.5, y: -15}
+        - {x: 42.5, y: -15}
+    - name: GokuBaseSprite_179
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 440
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 32}
+        - {x: -42, y: -32}
+        - {x: 33, y: -32}
+        - {x: 42, y: -16}
+        - {x: 42, y: 32}
+    - name: GokuBaseSprite_180
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 437
+        width: 85
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 35}
+        - {x: -42.5, y: -31}
+        - {x: -41.5, y: -35}
+        - {x: 42.5, y: -35}
+        - {x: 42.5, y: 21}
+        - {x: -5.5, y: 35}
+    - name: GokuBaseSprite_181
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 444
+        width: 85
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 28}
+        - {x: -17.5, y: 28}
+        - {x: -42.5, y: 15}
+        - {x: -42.5, y: -15}
+        - {x: -17.5, y: -27}
+        - {x: -10.5, y: -28}
+        - {x: 30.5, y: -28}
+        - {x: 33.5, y: -25}
+        - {x: 42.5, y: -12}
+        - {x: 42.5, y: 16}
+    - name: GokuBaseSprite_182
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 450
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 22.5}
+        - {x: -19, y: 15.5}
+        - {x: -19, y: -22.5}
+        - {x: 11, y: -22.5}
+        - {x: 19, y: -6.5}
+        - {x: 19, y: 12.5}
+        - {x: 16, y: 22.5}
+    - name: GokuBaseSprite_183
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 450
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_184
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 450
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_185
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 450
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_186
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 450
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_187
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 450
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_188
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 450
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_189
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 450
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_190
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 450
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 21}
+        - {x: -16, y: 19}
+        - {x: -16, y: -21}
+        - {x: 16, y: -21}
+        - {x: 16, y: 21}
+    - name: GokuBaseSprite_191
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 450
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 22}
+        - {x: -10.5, y: 17}
+        - {x: -16.5, y: 11}
+        - {x: -16.5, y: -22}
+        - {x: 16.5, y: -22}
+        - {x: 16.5, y: 20}
+        - {x: 13.5, y: 22}
+    - name: GokuBaseSprite_192
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 450
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_193
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 450
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_194
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 450
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_195
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 450
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_196
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 450
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_197
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 429
+        width: 114
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_198
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 429
+        width: 37
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_199
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 429
+        width: 114
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_200
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 354
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: 33.5}
+        - {x: 24.5, y: 36.5}
+        - {x: -8.5, y: 36.5}
+        - {x: -33.5, y: 28.5}
+        - {x: -33.5, y: -36.5}
+        - {x: 27.5, y: -36.5}
+        - {x: 32.5, y: -32.5}
+        - {x: 31.5, y: -29.5}
+        - {x: 33.5, y: -27.5}
+    - name: GokuBaseSprite_201
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 354
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 34.5}
+        - {x: -35.5, y: 27.5}
+        - {x: -38.5, y: 16.5}
+        - {x: -38.5, y: -24.5}
+        - {x: -29.5, y: -34.5}
+        - {x: 30.5, y: -34.5}
+        - {x: 38.5, y: -24.5}
+        - {x: 38.5, y: 14.5}
+        - {x: 19.5, y: 34.5}
+    - name: GokuBaseSprite_202
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 354
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 23}
+        - {x: 20.5, y: 22}
+        - {x: 14.5, y: 30}
+        - {x: 11.5, y: 29}
+        - {x: 7.5, y: 35}
+        - {x: 6.5, y: 36}
+        - {x: -8.5, y: 36}
+        - {x: -18.5, y: 31}
+        - {x: -33.5, y: 14}
+        - {x: -37.5, y: 2}
+        - {x: -37.5, y: -27}
+        - {x: -33.5, y: -36}
+        - {x: 29.5, y: -36}
+        - {x: 37.5, y: -30}
+        - {x: 37.5, y: 1}
+        - {x: 35.5, y: 16}
+    - name: GokuBaseSprite_203
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 354
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 34.5}
+        - {x: -29.5, y: 23.5}
+        - {x: -34.5, y: 1.5}
+        - {x: -34.5, y: -31.5}
+        - {x: -33.5, y: -34.5}
+        - {x: 34.5, y: -34.5}
+        - {x: 34.5, y: 23.5}
+        - {x: 20.5, y: 34.5}
+    - name: GokuBaseSprite_204
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 412
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_205
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 412
+        width: 37
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_206
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 412
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_207
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 363
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_208
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 363
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_209
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 363
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_210
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 363
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_211
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 366
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 20}
+        - {x: -30, y: 15}
+        - {x: -30, y: -14}
+        - {x: -28, y: -20}
+        - {x: 8, y: -20}
+        - {x: 30, y: -8}
+        - {x: 30, y: 8}
+        - {x: 7, y: 20}
+    - name: GokuBaseSprite_212
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 365
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 21}
+        - {x: -29.5, y: -21}
+        - {x: 10.5, y: -21}
+        - {x: 29.5, y: -8}
+        - {x: 29.5, y: 12}
+        - {x: 5.5, y: 21}
+    - name: GokuBaseSprite_213
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 364
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 22}
+        - {x: -30, y: 16}
+        - {x: -30, y: -20}
+        - {x: -28, y: -22}
+        - {x: 10, y: -22}
+        - {x: 30, y: -14}
+        - {x: 30, y: 8}
+        - {x: 9, y: 22}
+    - name: GokuBaseSprite_214
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 368
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 18}
+        - {x: -12.5, y: 16}
+        - {x: -14.5, y: 14}
+        - {x: -14.5, y: 13}
+        - {x: -26.5, y: 8}
+        - {x: -26.5, y: -8}
+        - {x: -13.5, y: -18}
+        - {x: 19.5, y: -18}
+        - {x: 26.5, y: -11}
+        - {x: 26.5, y: 12}
+        - {x: 19.5, y: 18}
+    - name: GokuBaseSprite_215
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 293
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 20.5}
+        - {x: -6.5, y: 14.5}
+        - {x: -6.5, y: 13.5}
+        - {x: -16.5, y: 5.5}
+        - {x: -17.5, y: -5.5}
+        - {x: -17.5, y: -20.5}
+        - {x: 15.5, y: -20.5}
+        - {x: 17.5, y: -15.5}
+        - {x: 17.5, y: 20.5}
+    - name: GokuBaseSprite_216
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 293
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 21}
+        - {x: -15.5, y: 10}
+        - {x: -17.5, y: -6}
+        - {x: -17.5, y: -21}
+        - {x: 14.5, y: -21}
+        - {x: 17.5, y: -15}
+        - {x: 17.5, y: 19}
+        - {x: 16.5, y: 21}
+    - name: GokuBaseSprite_217
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 293
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 19.5}
+        - {x: -8.5, y: 18.5}
+        - {x: -18.5, y: 5.5}
+        - {x: -18.5, y: -19.5}
+        - {x: 14.5, y: -19.5}
+        - {x: 18.5, y: -7.5}
+        - {x: 18.5, y: 13.5}
+        - {x: 16.5, y: 19.5}
+    - name: GokuBaseSprite_218
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 293
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 20}
+        - {x: -8.5, y: 19}
+        - {x: -17.5, y: 5}
+        - {x: -17.5, y: -20}
+        - {x: 16.5, y: -20}
+        - {x: 17.5, y: -19}
+        - {x: 17.5, y: 20}
+    - name: GokuBaseSprite_219
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 293
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20}
+        - {x: -17, y: 14}
+        - {x: -18, y: 10}
+        - {x: -18, y: -20}
+        - {x: 16, y: -20}
+        - {x: 18, y: -11}
+        - {x: 18, y: 13}
+        - {x: 15, y: 20}
+    - name: GokuBaseSprite_220
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 293
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20}
+        - {x: -17, y: 14}
+        - {x: -18, y: 10}
+        - {x: -18, y: -20}
+        - {x: 16, y: -20}
+        - {x: 18, y: -11}
+        - {x: 18, y: 13}
+        - {x: 15, y: 20}
+    - name: GokuBaseSprite_221
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 293
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20}
+        - {x: -17, y: 14}
+        - {x: -18, y: 10}
+        - {x: -18, y: -20}
+        - {x: 16, y: -20}
+        - {x: 18, y: -11}
+        - {x: 18, y: 13}
+        - {x: 15, y: 20}
+    - name: GokuBaseSprite_222
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 293
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20}
+        - {x: -17, y: 14}
+        - {x: -18, y: 10}
+        - {x: -18, y: -20}
+        - {x: 16, y: -20}
+        - {x: 18, y: -11}
+        - {x: 18, y: 13}
+        - {x: 15, y: 20}
+    - name: GokuBaseSprite_223
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 293
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 20}
+        - {x: -18, y: 7}
+        - {x: -18, y: -20}
+        - {x: 16, y: -20}
+        - {x: 18, y: -11}
+        - {x: 18, y: 13}
+        - {x: 15, y: 20}
+    - name: GokuBaseSprite_224
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 293
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 20}
+        - {x: -4.5, y: 20}
+        - {x: -18.5, y: 8}
+        - {x: -18.5, y: -20}
+        - {x: 16.5, y: -20}
+        - {x: 18.5, y: -11}
+        - {x: 18.5, y: 13}
+    - name: GokuBaseSprite_225
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 293
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 20}
+        - {x: -19, y: 10}
+        - {x: -19, y: -20}
+        - {x: 17, y: -20}
+        - {x: 19, y: -15}
+        - {x: 19, y: 13}
+        - {x: 15, y: 20}
+    - name: GokuBaseSprite_226
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 293
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 19.5}
+        - {x: -8.5, y: 18.5}
+        - {x: -18.5, y: 5.5}
+        - {x: -18.5, y: -19.5}
+        - {x: 14.5, y: -19.5}
+        - {x: 18.5, y: -7.5}
+        - {x: 18.5, y: 13.5}
+        - {x: 16.5, y: 19.5}
+    - name: GokuBaseSprite_227
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 231
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 21.5}
+        - {x: -19.5, y: 11.5}
+        - {x: -19.5, y: -21.5}
+        - {x: 19.5, y: -21.5}
+        - {x: 19.5, y: 21.5}
+    - name: GokuBaseSprite_228
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 231
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 20}
+        - {x: -18.5, y: 6}
+        - {x: -18.5, y: -20}
+        - {x: 16.5, y: -20}
+        - {x: 18.5, y: -19}
+        - {x: 18.5, y: 20}
+    - name: GokuBaseSprite_229
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 231
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 21}
+        - {x: -18.5, y: 10}
+        - {x: -18.5, y: -21}
+        - {x: 18.5, y: -21}
+        - {x: 18.5, y: 21}
+    - name: GokuBaseSprite_230
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 231
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 21}
+        - {x: -18.5, y: 10}
+        - {x: -18.5, y: -21}
+        - {x: 18.5, y: -21}
+        - {x: 18.5, y: 21}
+    - name: GokuBaseSprite_231
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 217
+        width: 85
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.5, y: -14.5}
+        - {x: 42.5, y: 14.5}
+        - {x: 1.5, y: 31.5}
+        - {x: -41.5, y: 31.5}
+        - {x: -42.5, y: 27.5}
+        - {x: -42.5, y: -23.5}
+        - {x: -41.5, y: -26.5}
+        - {x: -38.5, y: -31.5}
+        - {x: 6.5, y: -31.5}
+        - {x: 17.5, y: -26.5}
+        - {x: 25.5, y: -17.5}
+        - {x: 24.5, y: -14.5}
+    - name: GokuBaseSprite_232
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 217
+        width: 85
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 31.5}
+        - {x: -42.5, y: 31.5}
+        - {x: -42.5, y: -31.5}
+        - {x: 15.5, y: -31.5}
+        - {x: 42.5, y: -14.5}
+        - {x: 42.5, y: 14.5}
+        - {x: 19.5, y: 28.5}
+    - name: GokuBaseSprite_233
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 214
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 34.5}
+        - {x: -42, y: -31.5}
+        - {x: -39, y: -34.5}
+        - {x: -19, y: -34.5}
+        - {x: -1, y: -32.5}
+        - {x: 42, y: -17.5}
+        - {x: 42, y: 14.5}
+        - {x: -5, y: 34.5}
+    - name: GokuBaseSprite_234
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 221
+        width: 85
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: 27.5}
+        - {x: -27.5, y: 27.5}
+        - {x: -42.5, y: 14.5}
+        - {x: -42.5, y: -20.5}
+        - {x: -15.5, y: -27.5}
+        - {x: 38.5, y: -27.5}
+        - {x: 42.5, y: -15.5}
+        - {x: 42.5, y: 22.5}
+    - name: GokuBaseSprite_235
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 190
+        width: 102
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_236
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 190
+        width: 37
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_237
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 190
+        width: 102
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_238
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 126
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 30.5}
+        - {x: -9.5, y: 29.5}
+        - {x: -24.5, y: -0.5}
+        - {x: -24.5, y: -28.5}
+        - {x: -23.5, y: -30.5}
+        - {x: 24.5, y: -30.5}
+        - {x: 24.5, y: 16.5}
+        - {x: 18.5, y: 30.5}
+    - name: GokuBaseSprite_239
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 126
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 29}
+        - {x: -24.5, y: 10}
+        - {x: -24.5, y: -27}
+        - {x: -23.5, y: -29}
+        - {x: 24.5, y: -29}
+        - {x: 24.5, y: 2}
+        - {x: 21.5, y: 22}
+        - {x: 14.5, y: 29}
+    - name: GokuBaseSprite_240
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 126
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 28}
+        - {x: -24.5, y: 2}
+        - {x: -24.5, y: -22}
+        - {x: -22.5, y: -28}
+        - {x: 23.5, y: -28}
+        - {x: 24.5, y: -27}
+        - {x: 24.5, y: 19}
+        - {x: 20.5, y: 28}
+    - name: GokuBaseSprite_241
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 126
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 27}
+        - {x: -36, y: 1}
+        - {x: -36, y: -19}
+        - {x: -6, y: -31}
+        - {x: 36, y: -31}
+        - {x: 36, y: 26}
+        - {x: 35, y: 27}
+      - - {x: 2, y: 29}
+        - {x: 2, y: 31}
+        - {x: -3, y: 31}
+        - {x: -1, y: 28}
+    - name: GokuBaseSprite_242
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 126
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 28.5}
+        - {x: -36, y: -10.5}
+        - {x: -36, y: -16.5}
+        - {x: -6, y: -28.5}
+        - {x: 36, y: -28.5}
+        - {x: 36, y: 25.5}
+        - {x: 29, y: 28.5}
+    - name: GokuBaseSprite_243
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 126
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 28.5}
+        - {x: -36, y: -9.5}
+        - {x: -36, y: -20.5}
+        - {x: -9, y: -28.5}
+        - {x: 36, y: -28.5}
+        - {x: 36, y: 27.5}
+        - {x: 33, y: 28.5}
+    - name: GokuBaseSprite_244
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 126
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 28.5}
+        - {x: -36, y: -9.5}
+        - {x: -36, y: -16.5}
+        - {x: -10, y: -28.5}
+        - {x: 33, y: -28.5}
+        - {x: 36, y: -27.5}
+        - {x: 36, y: 22.5}
+        - {x: 26, y: 28.5}
+    - name: GokuBaseSprite_245
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 112
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_246
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 112
+        width: 37
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_247
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 112
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_248
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 59
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_249
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 59
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_250
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 59
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_251
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 59
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_252
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 59
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_253
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 59
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_254
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 59
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_255
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 59
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_256
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 59
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_257
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 59
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_258
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 59
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_259
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 59
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_260
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 59
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_261
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 59
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_262
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1032
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 16.5}
+        - {x: -21.5, y: 16.5}
+        - {x: -21.5, y: -18.5}
+        - {x: 13.5, y: -18.5}
+        - {x: 21.5, y: -15.5}
+        - {x: 21.5, y: 15.5}
+    - name: GokuBaseSprite_263
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1029
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_264
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 793
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 25}
+        - {x: -16.5, y: 17}
+        - {x: -16.5, y: -12}
+        - {x: -12.5, y: -25}
+        - {x: 16.5, y: -25}
+        - {x: 17.5, y: -24}
+        - {x: 17.5, y: 22}
+        - {x: 16.5, y: 25}
+    - name: GokuBaseSprite_265
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 793
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 22.5}
+        - {x: -16.5, y: 12.5}
+        - {x: -16.5, y: -16.5}
+        - {x: -13.5, y: -24.5}
+        - {x: 13.5, y: -24.5}
+        - {x: 16.5, y: -7.5}
+        - {x: 16.5, y: 16.5}
+        - {x: 8.5, y: 22.5}
+    - name: GokuBaseSprite_266
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 855
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GokuBaseSprite_267
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 793
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 22}
+        - {x: -16.5, y: 8}
+        - {x: -16.5, y: -18}
+        - {x: -12.5, y: -25}
+        - {x: 11.5, y: -25}
+        - {x: 17.5, y: 2}
+        - {x: 17.5, y: 15}
+        - {x: 9.5, y: 22}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
