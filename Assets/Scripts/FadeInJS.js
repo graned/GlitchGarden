@@ -6,7 +6,7 @@ private var fadePanel: Image;
 private var currentColor : Color = Color.black;
 
 function Start () {
-  fadePanel = GetComponent("Image");
+  fadePanel = GameObject.FindObjectOfType(Image);
 }
 
 function Update () {

@@ -5,7 +5,7 @@ static var DIFFICULTY_KEY : String = "diffculty";
 static var LEVEL_KEY : String = "level_unlocked_";
 
 static function SetMasterVolume (volume:float){
-  if(volume > 0f && volume < 1f){
+  if(volume >= 0f && volume <= 1f){
     PlayerPrefs.SetFloat(MASTER_VOLUME_KEY, volume);
   } else {
     Debug.LogError("Master volume out of range");
@@ -34,14 +34,14 @@ static function IsLevelUnlocked(level: int){
   }
 }
 
-static function SetDifficulty(difficulty: float){
-  if(difficulty > 0f && difficulty < 1f){
-    PlayerPrefs.SetFloat(DIFFICULTY_KEY, difficulty);
+static function SetDifficulty(difficulty: int){
+  if(difficulty > 0 && difficulty <= 3){
+    PlayerPrefs.SetInt(DIFFICULTY_KEY, difficulty);
   } else {
     Debug.LogError("Difficulty level out of range");
   }
 }
 
 static function GetDifficulty(){
-  return PlayerPrefs.GetFloat(DIFFICULTY_KEY);
+  return PlayerPrefs.GetInt(DIFFICULTY_KEY);
 }

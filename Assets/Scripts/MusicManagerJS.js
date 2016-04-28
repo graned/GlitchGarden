@@ -6,8 +6,7 @@ var levelMusicArray: AudioClip[];
 
 // Make the variable audioSource not show up in the inspector
 // but be serialized.
-@HideInInspector
-var audioSource: AudioSource;
+private var audioSource: AudioSource;
 
 
 function Awake () {
@@ -15,7 +14,7 @@ function Awake () {
 }
 
 function Start(){
-	audioSource = GetComponent("AudioSource");
+	audioSource = GameObject.FindObjectOfType(AudioSource);
 }
 
 function OnLevelWasLoaded(level: int){
@@ -27,8 +26,15 @@ function OnLevelWasLoaded(level: int){
 	}
 }
 
+function ChangeVolume(volume: float){
+	if(volume >= 0f && volume <= 1f){
+    audioSource.volume = volume;
+  } else {
+    Debug.LogError("Master volume out of range");
+  }
+}
+
 // Update is called once per frame
 function Update () {
-
 
 }
